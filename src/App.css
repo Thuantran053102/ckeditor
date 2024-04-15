@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.ck.ck-editor__top.ck-reset_all{
+
+  /* display: none; */
+}
