@@ -1,15 +1,15 @@
 
 import React from "react";
-import TinyMceEditor from "./CK1";
 // import CK3 from "./CK3";
 // import CK2 from "./CK2";
 import './App.css'
+import NewsEdit from "./CK1";
 
 const App = () => {
   return (
     <div>
       <h2>CKEditor 5 with React</h2>
-      <TinyMceEditor />
+      <NewsEdit />
       {/* <CK2/> */}
       {/* <CK3/> */}
     </div>
